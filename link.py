@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 # Your VirusTotal API key
-API_KEY = "e2b302777f493ad2db26c6a91febeac39a307cc857ad48b11c9230f4373473da"
+API_KEY = ""
 
 # Suspicious keywords to flag
 SUSPICIOUS_KEYWORDS = ["free", "login", "verify", "update", "account", "secure", "click"]
